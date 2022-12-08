@@ -85,7 +85,17 @@ main{
     padding: 50px;
     border-radius: 10px;
     font-family: var(--font-padrao);
+    transition-duration: 0.4s;
+    font-size: 1em;
+    text-align: justify;
+    background-color: white;
+
 }
+
+body{
+    background-image: url(midia/fundo2.jpg);
+}
+
 
 .espaco{
     padding: 20px;
